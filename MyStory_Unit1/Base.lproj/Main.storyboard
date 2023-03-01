@@ -16,25 +16,25 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="DcR-CP-Kk8" userLabel="Main Stack View">
+                            <stackView opaque="NO" contentMode="scaleAspectFill" axis="vertical" distribution="fillEqually" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="DcR-CP-Kk8" userLabel="Main Stack View">
                                 <rect key="frame" x="16" y="185" width="361" height="482"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hSL-w7-rFI" userLabel="First View">
                                         <rect key="frame" x="0.0" y="0.0" width="361" height="226"/>
                                         <subviews>
-                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="85" translatesAutoresizingMaskIntoConstraints="NO" id="y6N-P4-sh8">
+                                            <stackView opaque="NO" contentMode="scaleAspectFill" axis="vertical" alignment="center" spacing="85" translatesAutoresizingMaskIntoConstraints="NO" id="y6N-P4-sh8">
                                                 <rect key="frame" x="16" y="16" width="329" height="194"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" image="Image 3" highlightedImage="Image 3" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l6I-MN-MMU" userLabel="Image 1">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" image="Image 3" highlightedImage="Image 3" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l6I-MN-MMU" userLabel="Image 1">
                                                         <rect key="frame" x="75.666666666666671" y="0.0" width="177.66666666666663" height="88.666666666666671"/>
                                                     </imageView>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About Me" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vtD-wC-XrT">
-                                                        <rect key="frame" x="101.33333333333334" y="173.66666666666669" width="126.33333333333334" height="20.333333333333343"/>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About Me" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vtD-wC-XrT">
+                                                        <rect key="frame" x="125.33333333333334" y="173.66666666666669" width="78.333333333333343" height="20.333333333333343"/>
                                                         <rect key="contentStretch" x="0.25" y="0.0" width="1" height="1"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="20.333333333333343" id="yws-UT-ZFn"/>
                                                         </constraints>
-                                                        <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                                         <color key="textColor" systemColor="systemPinkColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
@@ -62,13 +62,13 @@
                                             <view tag="1" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IBK-v8-Tw7" userLabel="Third View">
                                                 <rect key="frame" x="0.0" y="0.0" width="153.33333333333334" height="226"/>
                                                 <subviews>
-                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="31" translatesAutoresizingMaskIntoConstraints="NO" id="By8-8B-S6x">
+                                                    <stackView opaque="NO" contentMode="scaleAspectFill" axis="vertical" spacing="31" translatesAutoresizingMaskIntoConstraints="NO" id="By8-8B-S6x">
                                                         <rect key="frame" x="15.999999999999993" y="16" width="121.33333333333331" height="194"/>
                                                         <subviews>
-                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" image="Image 1" translatesAutoresizingMaskIntoConstraints="NO" id="T0a-Hj-9ab" userLabel="Image 3">
+                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" image="Image 1" translatesAutoresizingMaskIntoConstraints="NO" id="T0a-Hj-9ab" userLabel="Image 3">
                                                                 <rect key="frame" x="0.0" y="0.0" width="121.33333333333333" height="142.66666666666666"/>
                                                             </imageView>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Weakness" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uxr-Fx-fy7">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Weakness" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uxr-Fx-fy7">
                                                                 <rect key="frame" x="0.0" y="173.66666666666663" width="121.33333333333333" height="20.333333333333343"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="height" constant="20.333333333333343" id="0ga-VZ-ttC"/>
@@ -95,13 +95,13 @@
                                             <view tag="2" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="m8V-VK-fyb" userLabel="Fourth View">
                                                 <rect key="frame" x="166.33333333333337" y="0.0" width="194.66666666666663" height="226"/>
                                                 <subviews>
-                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="29" translatesAutoresizingMaskIntoConstraints="NO" id="leC-Hc-k7m">
+                                                    <stackView opaque="NO" contentMode="scaleAspectFill" axis="vertical" alignment="center" spacing="29" translatesAutoresizingMaskIntoConstraints="NO" id="leC-Hc-k7m">
                                                         <rect key="frame" x="16" y="16" width="162.66666666666666" height="194"/>
                                                         <subviews>
-                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" image="Image 4" translatesAutoresizingMaskIntoConstraints="NO" id="Fmz-9A-vTu">
+                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" image="Image 4" translatesAutoresizingMaskIntoConstraints="NO" id="Fmz-9A-vTu">
                                                                 <rect key="frame" x="21.000000000000007" y="0.0" width="120.66666666666669" height="144.66666666666666"/>
                                                             </imageView>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Crew" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="feh-O5-wlp">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Crew" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="feh-O5-wlp">
                                                                 <rect key="frame" x="37.333333333333314" y="173.66666666666663" width="88" height="20.333333333333343"/>
                                                                 <rect key="contentStretch" x="0.0" y="0.0" width="0.0" height="1"/>
                                                                 <constraints>
