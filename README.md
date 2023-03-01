@@ -22,7 +22,6 @@ The following functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/samj10/MyStory_Unit1/blob/main/MyStory_Unit1/iPhone14.gif' title='iPhone 14' width='' alt='Video Walkthrough' />
-______________________________________________________________________________________________________________________________________________
 
 Example in iPhone SE: 
 
