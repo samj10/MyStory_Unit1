@@ -26,7 +26,8 @@ ________________________________________________________________________________
 
 Example in iPhone SE: 
 
-<img src='https://github.com/samj10/MyStory_Unit1/blob/main/MyStory_Unit1/iPhoneSe.gif' title='iPhone SE' width='4' alt='Video Walkthrough' />
+Please click here to go to iPhone SE Demo: <img src='https://github.com/samj10/MyStory_Unit1/blob/main/MyStory_Unit1/iPhoneSe.gif' title='iPhone SE' width='4' alt='Video Walkthrough' />
+
 
 
 GIF created with LICECap  
