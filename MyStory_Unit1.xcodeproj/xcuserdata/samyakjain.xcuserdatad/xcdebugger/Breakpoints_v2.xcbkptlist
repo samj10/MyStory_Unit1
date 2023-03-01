@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC0DA30B-C81D-4FD3-A160-DF9835C35416"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyStory_Unit1/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - 56e63a9c5c28bccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.NameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - 7cd439e6c2ad8c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.NameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - 3c95d76e21e4d5d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.NameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - af3567a5f88c0746"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.NameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - b4ee747efed2ab21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyStory_Unit1.DetailViewController"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  uuid = "48185AB6-5ABB-40E1-89D7-F2EA663A8F0C - f8c2d83703c4a10d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStory_Unit1.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyStory_Unit1.DetailViewController&gt;"
+                  moduleName = "MyStory_Unit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samyakjain/Desktop/xcode/MyStory_Unit1/MyStory_Unit1/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

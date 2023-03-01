@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D10B0D9629AEC11C00F610F8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D10B0D9529AEC11C00F610F8 /* DetailViewController.swift */; };
+		D1B6A77029AEED54009839CB /* luffy_struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B6A76F29AEED54009839CB /* luffy_struct.swift */; };
 		D1E70E8C29AE932F00BC9903 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E70E8B29AE932F00BC9903 /* AppDelegate.swift */; };
 		D1E70E8E29AE932F00BC9903 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E70E8D29AE932F00BC9903 /* SceneDelegate.swift */; };
 		D1E70E9029AE932F00BC9903 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E70E8F29AE932F00BC9903 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D10B0D9529AEC11C00F610F8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D1B6A76F29AEED54009839CB /* luffy_struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luffy_struct.swift; sourceTree = SOURCE_ROOT; };
 		D1E70E8829AE932F00BC9903 /* MyStory_Unit1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStory_Unit1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1E70E8B29AE932F00BC9903 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1E70E8D29AE932F00BC9903 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,9 +60,11 @@
 		D1E70E8A29AE932F00BC9903 /* MyStory_Unit1 */ = {
 			isa = PBXGroup;
 			children = (
+				D1B6A76F29AEED54009839CB /* luffy_struct.swift */,
 				D1E70E8B29AE932F00BC9903 /* AppDelegate.swift */,
 				D1E70E8D29AE932F00BC9903 /* SceneDelegate.swift */,
 				D1E70E8F29AE932F00BC9903 /* ViewController.swift */,
+				D10B0D9529AEC11C00F610F8 /* DetailViewController.swift */,
 				D1E70E9129AE932F00BC9903 /* Main.storyboard */,
 				D1E70E9429AE933100BC9903 /* Assets.xcassets */,
 				D1E70E9629AE933100BC9903 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				D1E70E9029AE932F00BC9903 /* ViewController.swift in Sources */,
 				D1E70E8C29AE932F00BC9903 /* AppDelegate.swift in Sources */,
 				D1E70E8E29AE932F00BC9903 /* SceneDelegate.swift in Sources */,
+				D10B0D9629AEC11C00F610F8 /* DetailViewController.swift in Sources */,
+				D1B6A77029AEED54009839CB /* luffy_struct.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
